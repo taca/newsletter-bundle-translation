@@ -51,9 +51,11 @@
       </trans-unit>
       <trans-unit id="tl_newsletter.template.0">
         <source>Custom e-mail template</source>
+        <target>独自の電子メールのテンプレート</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.template.1">
         <source>Here you can override the default e-mail template of the channel.</source>
+        <target>チャネルの電子メールのテンプレートの初期設定を上書きできます。</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.sendText.0">
         <source>Send as plain text</source>
@@ -73,15 +75,19 @@
       </trans-unit>
       <trans-unit id="tl_newsletter.sender.0">
         <source>Custom sender e-mail address</source>
+        <target>独自の送信者の電子メールアドレス</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.sender.1">
         <source>Here you can override the default sender e-mail address of the channel.</source>
+        <target>チャネルの送信者の送信者の電子メールアドレスの初期設定を上書きできます。</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.senderName.0">
         <source>Custom sender name</source>
+        <target>独自の送信者の名前</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.senderName.1">
         <source>Here you can override the default sender name of the channel.</source>
+        <target>チャネルの送信者の名前の初期設定を上書きできます。</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.mailsPerCycle.0">
         <source>Mails per cycle</source>
@@ -137,6 +143,7 @@
       </trans-unit>
       <trans-unit id="tl_newsletter.sender_legend">
         <source>Sender settings</source>
+        <target>送信者の設定</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.expert_legend">
         <source>Expert settings</source>
