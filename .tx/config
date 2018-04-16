@@ -91,3 +91,48 @@ file_filter = translations/contao-newsletter-bundle.v4_5-tl_user_group/<lang>.xl
 source_lang = en
 type = XLIFF
 
+[contao-newsletter-bundle.v4_6-default]
+file_filter = translations/contao-newsletter-bundle.v4_6-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-newsletter-bundle.v4_6-modules]
+file_filter = translations/contao-newsletter-bundle.v4_6-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-newsletter-bundle.v4_6-tl_member]
+file_filter = translations/contao-newsletter-bundle.v4_6-tl_member/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-newsletter-bundle.v4_6-tl_module]
+file_filter = translations/contao-newsletter-bundle.v4_6-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-newsletter-bundle.v4_6-tl_newsletter]
+file_filter = translations/contao-newsletter-bundle.v4_6-tl_newsletter/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-newsletter-bundle.v4_6-tl_newsletter_channel]
+file_filter = translations/contao-newsletter-bundle.v4_6-tl_newsletter_channel/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-newsletter-bundle.v4_6-tl_newsletter_recipients]
+file_filter = translations/contao-newsletter-bundle.v4_6-tl_newsletter_recipients/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-newsletter-bundle.v4_6-tl_user]
+file_filter = translations/contao-newsletter-bundle.v4_6-tl_user/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-newsletter-bundle.v4_6-tl_user_group]
+file_filter = translations/contao-newsletter-bundle.v4_6-tl_user_group/<lang>.xlf
+source_lang = en
+type = XLIFF
+
