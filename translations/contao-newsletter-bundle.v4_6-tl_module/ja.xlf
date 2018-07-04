@@ -19,9 +19,11 @@
       </trans-unit>
       <trans-unit id="tl_module.nl_text.0">
         <source>Custom text</source>
+        <target>独自のテキスト</target>
       </trans-unit>
       <trans-unit id="tl_module.nl_text.1">
         <source>Here you can e.g. enter a privacy note to make the newsletter subscription GDPR compliant.</source>
+        <source>例えばニュースレターの購読がGDPRに適合させるためのプライバシーの注意を入力できます。</source>
       </trans-unit>
       <trans-unit id="tl_module.nl_hideChannels.0">
         <source>Hide channel menu</source>
@@ -57,23 +59,24 @@
       </trans-unit>
       <trans-unit id="tl_module.text_legend">
         <source>Custom text</source>
+        <target>独自のテキスト</target>
       </trans-unit>
       <trans-unit id="tl_module.text_subscribe.0">
         <source>Your subscription on %s</source>
         <target>%sの購読</target>
       </trans-unit>
       <trans-unit id="tl_module.text_subscribe.1">
-        <source>You have subscribed to the following channels on ##domain##:
+        <source>##domain##で以下のチャンネルに登録を申し込みを受け付けました:
 
 ##channels##
 
-Please click here to activate your subscription:
+以下のURLをクリックすると、この登録を有効にします:
 
 ##link##
 
-The confirmation link is valid for 24 hours. You can cancel your subscription at any time.
+承認のリンクは24時間有効です。いつでも登録を取り止められます。
 
-If you did not subscribe yourself, please ignore this e-mail.
+ご自身で申し込みをされた覚えがない場合は、このメールを無視してください。
 </source>
       </trans-unit>
       <trans-unit id="tl_module.text_unsubscribe.0">
