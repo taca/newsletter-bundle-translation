@@ -66,7 +66,7 @@
       </trans-unit>
       <trans-unit id="tl_newsletter_channel.new.1">
         <source>Create a new channel</source>
-        <target>新しくチャンネルを作成</target>
+        <target>新しいチャンネルを作成</target>
       </trans-unit>
       <trans-unit id="tl_newsletter_channel.show">
         <source>Show the details of channel ID %s</source>
