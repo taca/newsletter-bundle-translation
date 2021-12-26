@@ -46,51 +46,6 @@ file_filter = translations/newsletter-bundle.v4_9-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[newsletter-bundle.v4_11-default]
-file_filter = translations/newsletter-bundle.v4_11-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_11-modules]
-file_filter = translations/newsletter-bundle.v4_11-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_11-tl_member]
-file_filter = translations/newsletter-bundle.v4_11-tl_member/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_11-tl_module]
-file_filter = translations/newsletter-bundle.v4_11-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_11-tl_newsletter]
-file_filter = translations/newsletter-bundle.v4_11-tl_newsletter/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_11-tl_newsletter_channel]
-file_filter = translations/newsletter-bundle.v4_11-tl_newsletter_channel/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_11-tl_newsletter_recipients]
-file_filter = translations/newsletter-bundle.v4_11-tl_newsletter_recipients/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_11-tl_user]
-file_filter = translations/newsletter-bundle.v4_11-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_11-tl_user_group]
-file_filter = translations/newsletter-bundle.v4_11-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [newsletter-bundle.v4_12-default]
 file_filter = translations/newsletter-bundle.v4_12-default/<lang>.xlf
 source_lang = en
