@@ -1,51 +1,6 @@
 [main]
 host = https://www.transifex.com
 
-[newsletter-bundle.v4_4-default]
-file_filter = translations/newsletter-bundle.v4_4-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_4-modules]
-file_filter = translations/newsletter-bundle.v4_4-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_4-tl_member]
-file_filter = translations/newsletter-bundle.v4_4-tl_member/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_4-tl_module]
-file_filter = translations/newsletter-bundle.v4_4-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_4-tl_newsletter]
-file_filter = translations/newsletter-bundle.v4_4-tl_newsletter/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_4-tl_newsletter_channel]
-file_filter = translations/newsletter-bundle.v4_4-tl_newsletter_channel/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_4-tl_newsletter_recipients]
-file_filter = translations/newsletter-bundle.v4_4-tl_newsletter_recipients/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_4-tl_user]
-file_filter = translations/newsletter-bundle.v4_4-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[newsletter-bundle.v4_4-tl_user_group]
-file_filter = translations/newsletter-bundle.v4_4-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [newsletter-bundle.v4_9-default]
 file_filter = translations/newsletter-bundle.v4_9-default/<lang>.xlf
 source_lang = en
