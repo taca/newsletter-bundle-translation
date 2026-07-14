@@ -1,5 +1,5 @@
 <?xml version="1.0" ?><xliff version="1.1">
-  <file datatype="php" original="src/Resources/contao/languages/en/tl_newsletter.php" source-language="en" target-language="ja">
+  <file datatype="php" original="contao/languages/en/tl_newsletter.php" source-language="en" target-language="ja">
     <body>
       <trans-unit id="tl_newsletter.subject.0">
         <source>Subject</source>
@@ -16,6 +16,14 @@
       <trans-unit id="tl_newsletter.alias.1">
         <source>The newsletter alias is a unique reference to the newsletter which can be called instead of its numeric ID.</source>
         <target>ニュースレターのエイリアスは、その数値のIDの代わりにニュースレターを参照できる、重複しない名前です。</target>
+      </trans-unit>
+      <trans-unit id="tl_newsletter.preheader.0">
+        <source>Preheader text</source>
+        <target>前見出しのテキスト</target>
+      </trans-unit>
+      <trans-unit id="tl_newsletter.preheader.1">
+        <source>Here you can enter a preheader text. A preheader text should be between 40-130 characters long.</source>
+        <target>前見出しのテキストを入力できます。前見出しのテキストは40から130文字の長さにする必要があります。</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.content.0">
         <source>HTML content</source>
@@ -159,17 +167,17 @@
       </trans-unit>
       <trans-unit id="tl_newsletter.sent">
         <source>Sent</source>
-        <target>送信状態</target>
+        <target>送信済み</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.sentOn">
-        <source>Sent on %s</source>
+        <source>Sent at %s</source>
         <target>%sに送信済み</target>
       </trans-unit>
       <trans-unit id="tl_newsletter.notSent">
         <source>Not sent yet</source>
         <target>未送信</target>
       </trans-unit>
-      <trans-unit id="tl_newsletter.mailingDate">
+      <trans-unit id="tl_newsletter.date">
         <source>Mailing date</source>
         <target>メールした日</target>
       </trans-unit>
